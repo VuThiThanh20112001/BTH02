@@ -113,143 +113,7 @@ body{
 
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ footer */
-#content{
-    padding: 0 30px 50px 30px;
-}
-#content .content-1{
-    width: 747px;
-    height: 370px;
-    padding: 10px;
-}
-#content .section-heading{
-    padding: 10px;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    font-weight: bold;
-    font-size: 20px;
-}
-#content .text1 {
-    font-size: 16px;
-   text-align: justify;
-   line-height: 1.5;
-}
-#content .text-0{
-    margin: 0 0 20px;
-    font-size: 16px;
-   text-align: justify;
-   font-weight: bold;
-   line-height: 1.5;
-}
-#content .text2,
-#content .text3{
-    margin: 0 0 20px;
-    font-size: 16px;
-   text-align: justify;
-   line-height: 1.5;
-}
 
-#content .content-2{
-    width: 747px;
-    height: 620px;
-    padding: 10px;
-}
-#content .section-heading-1{
-    padding-bottom: 20px;
-    font-weight: bold;
-    font-size: 17px;
-    color: #5091db;
-
-}
-#content .text4{
-    list-style: disc;
-    font-size: 16px;
-    text-align: justify;
-    line-height: 1.5;
-    padding-left: 10px;
-}
-#content .text5,
-#content .text6 {
-    font-size: 16px;
-    line-height: 1.5;
-    text-align: justify;
-    padding: 20px 0 0;
-}
-#content .content-3{
-    width: 767px;
-    height: 300px;
-    padding: 10px;
-}
-#content .section-heading-3,
-#content .section-heading-2{
-    padding-bottom: 20px;
-    font-weight: bold;
-    font-size: 17px;
-    color: #5091db;
-}
-#content .content-4{
-    width: 767px;
-    height: 600px;
-    padding: 10px;
-}
-/*-------------------*/
-#content .text9 p{
-    display: none;
-}
-#content .text9 a{
-    text-decoration: none;
-    color: #000;
-    line-height: 1.5;
-    font-size: 16px;
-    font-weight: bold;
-}
-#content .text9 li{
-    list-style: disc;
-    margin: 0 0  20px;
-}
-/*----------------------*/
-#content .text7 {
-    list-style: disc;
-    font-size: 16px;
-    line-height: 1.5;
-    text-align: justify;
-    padding-left: 10px;
-}
-#content .text7 ul {
-    list-style: circle;
-    padding-left: 20px;
-}
-#content .text8 p{
-    font-size: 16px;
-    text-align: justify;
-    margin: 0 0 20px;
-    line-height: 1.5;
-}
-#content .text8 a{
-    font-weight: bold;
-}
-#content .content-5{
-    width: 767px;
-    height: 2000px;
-    padding: 10px;
-}
-#content .link{
-    text-decoration: none;
-    line-height: 1.5;
-    color: #00f;
-}
-#content .text8 ul{
-    list-style: disc;
-    line-height: 1.5;
-    padding-left: 30px;
-    margin: 0 0 20px;
-}
-#content .link-hnaptech{
-    text-decoration: none;
-    color: #000;
-}
-
-/*---------------------------------------------*/
 .footer{
     display: flex;
     justify-content: center;
@@ -317,6 +181,7 @@ body{
     margin-top: 25px;
     border-radius: 6px;
     background-color: #edb017;
+    border: 0;
 }
 
 .form-button:hover{
@@ -324,3 +189,7 @@ body{
     background-color: #5091db;
     color: rgb(49, 49, 49);
 }
+
+
+
+
